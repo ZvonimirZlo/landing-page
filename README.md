@@ -1,2 +1,2 @@
 # landing-page
-practice project from freeCodeCamp
+Project from freeCodeCamp using HTML and CSS.
