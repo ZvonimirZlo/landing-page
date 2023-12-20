@@ -1,2 +1,1 @@
-# landing-page
-Project from freeCodeCamp using HTML and CSS.
+# landing-page using HTML and CSS.
